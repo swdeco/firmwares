@@ -16,6 +16,20 @@
         "size": 1218560,
         "crc32": "5a40d0d8"
       }
+    },
+    "Rais CVNQ": {
+      "display": {
+        "version": "4.1.1",
+        "file": "rais-cvnq/display/rais-cvnq-display-4.1.1.bin",
+        "size": 2265648,
+        "crc32": "27f45dcf"
+      },
+      "mainboard": {
+        "version": "0.4.1",
+        "file": "rais-cvnq/mainboard/rais-cvnq-mainboard-0.4.1.bin",
+        "size": 1213744,
+        "crc32": "fec9ee05"
+      }
     }
   }
 }
