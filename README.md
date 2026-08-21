@@ -65,6 +65,6 @@ Model slugs: `logicwood`, `rais-cvnq`, `rais-visio`, `hybrid-mist`, `denver-f2`,
 
 | Model | Display | Mainboard |
 |-------|---------|-----------|
-| Logicwood | 4.2.1 | 0.5.1 |
+| Logicwood | 4.3.1 | 0.6.1 |
 
 _(Other models: folders ready, firmware not published yet.)_
