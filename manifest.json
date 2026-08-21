@@ -5,16 +5,16 @@
   "models": {
     "Logicwood": {
       "display": {
-        "version": "4.1.0",
-        "file": "logicwood/display/logicwood-display-4.1.0.bin",
+        "version": "4.1.1",
+        "file": "logicwood/display/logicwood-display-4.1.1.bin",
         "size": 2603840,
-        "crc32": "1bc7a889"
+        "crc32": "9e53afe4"
       },
       "mainboard": {
-        "version": "0.4.0",
-        "file": "logicwood/mainboard/logicwood-mainboard-0.4.0.bin",
+        "version": "0.4.1",
+        "file": "logicwood/mainboard/logicwood-mainboard-0.4.1.bin",
         "size": 1215440,
-        "crc32": "c4cf52ce"
+        "crc32": "cb1583f4"
       }
     }
   }
