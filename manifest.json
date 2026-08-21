@@ -1,20 +1,20 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "baseUrl": "https://raw.githubusercontent.com/swdeco/firmwares/main/",
   "models": {
     "Logicwood": {
       "display": {
-        "version": "4.1.1",
-        "file": "logicwood/display/logicwood-display-4.1.1.bin",
+        "version": "4.2.1",
+        "file": "logicwood/display/logicwood-display-4.2.1.bin",
         "size": 2603840,
-        "crc32": "9e53afe4"
+        "crc32": "cb20d040"
       },
       "mainboard": {
-        "version": "0.4.1",
-        "file": "logicwood/mainboard/logicwood-mainboard-0.4.1.bin",
+        "version": "0.5.1",
+        "file": "logicwood/mainboard/logicwood-mainboard-0.5.1.bin",
         "size": 1215440,
-        "crc32": "cb1583f4"
+        "crc32": "df1badbe"
       }
     }
   }
