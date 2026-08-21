@@ -45,6 +45,11 @@ Model slugs: `logicwood`, `rais-cvnq`, `rais-visio`, `hybrid-mist`, `denver-f2`,
 
 ## Publishing a new firmware
 
+> **Full runbook + a one-command helper:** see [`PUBLISHING_GUIDE.md`](PUBLISHING_GUIDE.md).
+> The fast path is `python publish.py --model "<Model>" --display <bin> <ver> --mainboard <bin> <ver>`
+> then `git push` — it copies the `.bin`, computes size + CRC-32, and updates `manifest.json`
+> for you. The manual steps below are what it does.
+
 1. Build the board's firmware in PlatformIO. The image is
    `<repo>/.pio/build/esp32dev/firmware.bin`.
    - **Bump `firmwareVersion`** in that board's `src/main.cpp` *before* building, so the
@@ -67,5 +72,8 @@ Model slugs: `logicwood`, `rais-cvnq`, `rais-visio`, `hybrid-mist`, `denver-f2`,
 |-------|---------|-----------|
 | Logicwood | 4.3.2 | 0.6.2 |
 | Rais CVNQ | 4.1.1 | 0.4.1 |
+| Denver F2 | 4.1.1 | 0.4.1 |
+| Hybrid mist | 4.1.1 | 0.4.1 |
+| Rais Visio | 4.1.1 | 0.4.1 |
 
 _(Other models: folders ready, firmware not published yet.)_

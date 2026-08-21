@@ -30,6 +30,48 @@
         "size": 1213744,
         "crc32": "fec9ee05"
       }
+    },
+    "Denver F2": {
+      "display": {
+        "version": "4.1.1",
+        "file": "denver-f2/display/denver-f2-display-4.1.1.bin",
+        "size": 2406416,
+        "crc32": "54c080b9"
+      },
+      "mainboard": {
+        "version": "0.4.1",
+        "file": "denver-f2/mainboard/denver-f2-mainboard-0.4.1.bin",
+        "size": 1212576,
+        "crc32": "3e2eb022"
+      }
+    },
+    "Hybrid mist": {
+      "display": {
+        "version": "4.1.1",
+        "file": "hybrid-mist/display/hybrid-mist-display-4.1.1.bin",
+        "size": 2430064,
+        "crc32": "f23c109e"
+      },
+      "mainboard": {
+        "version": "0.4.1",
+        "file": "hybrid-mist/mainboard/hybrid-mist-mainboard-0.4.1.bin",
+        "size": 1328016,
+        "crc32": "12e4787b"
+      }
+    },
+    "Rais Visio": {
+      "display": {
+        "version": "4.1.1",
+        "file": "rais-visio/display/rais-visio-display-4.1.1.bin",
+        "size": 2400992,
+        "crc32": "0ac2721c"
+      },
+      "mainboard": {
+        "version": "0.4.1",
+        "file": "rais-visio/mainboard/rais-visio-mainboard-0.4.1.bin",
+        "size": 1216320,
+        "crc32": "93a57c31"
+      }
     }
   }
 }
