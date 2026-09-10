@@ -61,10 +61,10 @@
     },
     "Rais Visio": {
       "display": {
-        "version": "4.1.2",
-        "file": "rais-visio/display/rais-visio-display-4.1.2.bin",
-        "size": 2267360,
-        "crc32": "d4ddbbee"
+        "version": "4.1.3",
+        "file": "rais-visio/display/rais-visio-display-4.1.3.bin",
+        "size": 2267872,
+        "crc32": "b88165fa"
       },
       "mainboard": {
         "version": "0.4.2",
