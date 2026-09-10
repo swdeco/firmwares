@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-08-21",
+  "updated": "2026-09-10",
   "baseUrl": "https://raw.githubusercontent.com/swdeco/firmwares/main/",
   "models": {
     "Logicwood": {
@@ -61,16 +61,16 @@
     },
     "Rais Visio": {
       "display": {
-        "version": "4.1.1",
-        "file": "rais-visio/display/rais-visio-display-4.1.1.bin",
-        "size": 2400992,
-        "crc32": "0ac2721c"
+        "version": "4.1.2",
+        "file": "rais-visio/display/rais-visio-display-4.1.2.bin",
+        "size": 2267360,
+        "crc32": "d4ddbbee"
       },
       "mainboard": {
-        "version": "0.4.1",
-        "file": "rais-visio/mainboard/rais-visio-mainboard-0.4.1.bin",
-        "size": 1216320,
-        "crc32": "93a57c31"
+        "version": "0.4.2",
+        "file": "rais-visio/mainboard/rais-visio-mainboard-0.4.2.bin",
+        "size": 1204064,
+        "crc32": "2cdabdb2"
       }
     }
   }
