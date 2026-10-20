@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-09-10",
+  "updated": "2026-10-12",
   "baseUrl": "https://raw.githubusercontent.com/swdeco/firmwares/main/",
   "models": {
     "Logicwood": {
@@ -19,16 +19,16 @@
     },
     "Rais CVNQ": {
       "display": {
-        "version": "4.1.1",
-        "file": "rais-cvnq/display/rais-cvnq-display-4.1.1.bin",
-        "size": 2265648,
-        "crc32": "27f45dcf"
+        "version": "4.1.2",
+        "file": "rais-cvnq/display/rais-cvnq-display-4.1.2.bin",
+        "size": 2265008,
+        "crc32": "6411d0c6"
       },
       "mainboard": {
-        "version": "0.4.1",
-        "file": "rais-cvnq/mainboard/rais-cvnq-mainboard-0.4.1.bin",
-        "size": 1213744,
-        "crc32": "fec9ee05"
+        "version": "0.4.2",
+        "file": "rais-cvnq/mainboard/rais-cvnq-mainboard-0.4.2.bin",
+        "size": 1214816,
+        "crc32": "a9a27b93"
       }
     },
     "Denver F2": {
@@ -61,10 +61,10 @@
     },
     "Rais Visio": {
       "display": {
-        "version": "4.1.3",
-        "file": "rais-visio/display/rais-visio-display-4.1.3.bin",
-        "size": 2268336,
-        "crc32": "126c28cc"
+        "version": "4.1.5",
+        "file": "rais-visio/display/rais-visio-display-4.1.5.bin",
+        "size": 2267936,
+        "crc32": "3407ec74"
       },
       "mainboard": {
         "version": "0.4.2",
